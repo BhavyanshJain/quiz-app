@@ -3,16 +3,13 @@
 [![License][license-shield]][license-url]
 
 <div align="center">
-  <a href="https://quiz.bhavyansh.codes/">
-    <img src="public/logo512.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h1 align="center">Quiz App</h1>
   
   <p align="center">
     A simple quiz app.
     <br />
-    <a href="https://quiz.bhavyansh.codes/"><i>View Demo</i></a>
+    <a href="https://quiz.bhavyanshjain.com/"><i>View Demo</i></a>
   </p>
 </div>
 
